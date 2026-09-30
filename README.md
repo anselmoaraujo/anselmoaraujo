@@ -89,8 +89,8 @@
     <td width="50%" valign="top">
       <h3>📈 Quantitative & Market Data Platforms</h3>
       <ul>
-        <li><strong>B3 & Global Ingestion Pipelines:</strong> High-throughput market data feeds, tick-data parsers, and analytical warehousing.</li>
-        <li><strong>Backtesting & Factor Modeling:</strong> Algorithmic strategy evaluation and risk stress-testing engines.</li>
+        <li><strong>Proprietary B3 Engine (<code>ansfun</code> R Package):</strong> Internal custom-engineered package for high-integrity B3 market data ingestion, corporate action adjustments, and time-series normalization.</li>
+        <li><strong>Backtesting & Factor Modeling:</strong> Algorithmic strategy evaluation and risk stress-testing engines for Brazilian and global assets.</li>
         <li><strong>Broker & Custody Integrations:</strong> Direct API connectivity with XP, BTG Pactual, Gorila, and Open Finance.</li>
       </ul>
     </td>
@@ -123,7 +123,7 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Financial Engineering & Data** | `Python` (Pandas, Polars, FastAPI) · `R` (Tidyverse, Tidyquant) · `Rust` · `Go` · `SQL` · `Jupyter` |
+| **Financial Engineering & Data** | `R` (<code>ansfun</code> - Proprietary B3 Engine, Tidyverse) · `Python` (Pandas, Polars, FastAPI) · `Rust` · `Go` · `SQL` |
 | **AI & Automation** | `Multi-Agent Architectures` · `Antigravity` · `Claude Code SDK` · `LLM Function Calling` · `n8n` |
 | **Market Data & APIs** | `B3 Market Protocols` · `BTG Pactual API` · `XP Data Access` · `Gorila` · `Open Finance` |
 | **Cloud & Infrastructure** | `AWS` · `Oracle Cloud Infrastructure (OCI)` · `Docker` · `PostgreSQL` · `CI/CD Workflows` |
