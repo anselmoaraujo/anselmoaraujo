@@ -29,9 +29,52 @@
 
 ---
 
-## 🛠️ Solutions We Design & Implement
+## 📌 Featured Public Solutions & Technical Portfolio
 
-> *Note: Production client implementations, proprietary execution engines, and family office platforms are operated under private enterprise repositories and client confidentiality.*
+> *Note: Production client implementations, proprietary execution engines, and family office platforms are operated under private enterprise repositories and strict client confidentiality.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/TradingAgents">🤖 TradingAgents</a></h4>
+      <p>Multi-agents LLM financial trading framework and autonomous market analysis orchestration.</p>
+      <p><code>Python</code> · <code>Multi-Agent Systems</code> · <code>Quantitative Finance</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/BDM">📈 BDM — Brazilian Financial Market Data</a></h4>
+      <p>Data access, web service ingestion, and financial time-series manipulation tooling in R.</p>
+      <p><code>R</code> · <code>B3 / Central Bank Data</code> · <code>Time Series</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/Claude-Code-Unified-Skill-Plugin-Library">🧠 Agent Skills & Plugin Library</a></h4>
+      <p>Extensive catalog of 200+ specialized agent skills and 40+ plugins across finance, data engineering, and automation.</p>
+      <p><code>Agentic AI</code> · <code>Automation</code> · <code>Tooling</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/crypto-pairs-trading-ai">⚡ Crypto Pairs Trading AI</a></h4>
+      <p>Statistical arbitrage and quantitative pairs trading architecture with real-time risk management engines.</p>
+      <p><code>Python</code> · <code>Statistical Arbitrage</code> · <code>Risk Analytics</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/genai-for-trading-and-am">📊 GenAI for Trading & Asset Management</a></h4>
+      <p>Generative AI architectures, neural factor modeling, and workflow automation for investment managers.</p>
+      <p><code>Python</code> · <code>Deep Learning</code> · <code>Asset Allocation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/anselmoaraujo/awesome-quant">📚 Awesome Quantitative Finance</a></h4>
+      <p>Curated catalog of institutional quantitative finance libraries, market modeling tools, and execution packages.</p>
+      <p><code>Quant Research</code> · <code>Ecosystem</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Solutions We Design & Implement
 
 <table>
   <tr>
@@ -86,18 +129,6 @@
 | **Cloud & Infrastructure** | `AWS` · `Oracle Cloud Infrastructure (OCI)` · `Docker` · `PostgreSQL` · `CI/CD Workflows` |
 
 </div>
-
----
-
-## 🔬 Featured Public Research & Open Source Tooling
-
-Explore select public repositories and research environments:
-
-* **[`BDM`](https://github.com/anselmoaraujo/BDM)** — Brazilian financial market data manipulation and service consumption in R.
-* **[`TradingAgents`](https://github.com/anselmoaraujo/TradingAgents)** — Multi-agent LLM financial trading and research framework.
-* **[`Claude-Code-Unified-Skill-Plugin-Library`](https://github.com/anselmoaraujo/Claude-Code-Unified-Skill-Plugin-Library)** — Modular skills and plugins library for AI agents across finance, analytics, and platform development.
-* **[`crypto-pairs-trading-ai`](https://github.com/anselmoaraujo/crypto-pairs-trading-ai)** — Multi-agent architecture for statistical arbitrage and real-time risk management.
-* **[`genai-for-trading-and-am`](https://github.com/anselmoaraujo/genai-for-trading-and-am)** — Generative AI architectures and implementations for trading and asset management.
 
 ---
 
