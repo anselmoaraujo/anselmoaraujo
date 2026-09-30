@@ -31,6 +31,8 @@
 
 ## 🛠️ Solutions We Design & Implement
 
+> *Note: Production client implementations, proprietary execution engines, and family office platforms are operated under private enterprise repositories and client confidentiality.*
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -87,11 +89,15 @@
 
 ---
 
-## 🚀 Featured Open Source & Engineering Tooling
+## 🔬 Featured Public Research & Open Source Tooling
 
-* **[`agent-skills`](https://github.com/anselmoaraujo/agent-skills)** — Universal agent skills and governance rules for AI coding and automation systems.
-* **[`bzequities`](https://github.com/anselmoaraujo/bzequities)** — Dedicated data access and analysis tooling for B3 Brazilian Equities.
-* **[`algo-trading`](https://github.com/anselmoaraujo/algo-trading)** — Algorithmic trading research, strategy simulation, and backtesting frameworks.
+Explore select public repositories and research environments:
+
+* **[`BDM`](https://github.com/anselmoaraujo/BDM)** — Brazilian financial market data manipulation and service consumption in R.
+* **[`TradingAgents`](https://github.com/anselmoaraujo/TradingAgents)** — Multi-agent LLM financial trading and research framework.
+* **[`Claude-Code-Unified-Skill-Plugin-Library`](https://github.com/anselmoaraujo/Claude-Code-Unified-Skill-Plugin-Library)** — Modular skills and plugins library for AI agents across finance, analytics, and platform development.
+* **[`crypto-pairs-trading-ai`](https://github.com/anselmoaraujo/crypto-pairs-trading-ai)** — Multi-agent architecture for statistical arbitrage and real-time risk management.
+* **[`genai-for-trading-and-am`](https://github.com/anselmoaraujo/genai-for-trading-and-am)** — Generative AI architectures and implementations for trading and asset management.
 
 ---
 
