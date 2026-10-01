@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Alva%20Group-alvamfo.com.br-0B2545?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alvamfo.com.br/)
 [![Email](https://img.shields.io/badge/Inquiries-tech%40alvagroup.com.br-134074?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech@alvagroup.com.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Schedule%20a%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511984410446?text=Hello!%20I'm%20contacting%20you%20from%20your%20GitHub%20profile%20regarding%20Alva%20Group%20solutions.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-anselmo.araujo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/anselmo.araujo?text=Hello!%20I'm%20contacting%20you%20from%20your%20GitHub%20profile%20regarding%20Alva%20Group%20solutions.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alva%20MFO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/alva-mfo/)
 
 <br />
@@ -141,7 +141,7 @@ Whether you are looking to:
 
 We partner with you from technical architecture to production deployment.
 
-👉 **[Schedule a Discovery Conversation](mailto:tech@alvagroup.com.br)** or reach out directly on WhatsApp at **[+55 11 98441-0446](https://wa.me/5511984410446?text=Hello!%20I'm%20contacting%20you%20from%20your%20GitHub%20profile%20regarding%20Alva%20Group%20solutions.)**.
+👉 **[Schedule a Discovery Conversation](mailto:tech@alvagroup.com.br)** or reach out directly on WhatsApp at **[@anselmo.araujo](https://wa.me/anselmo.araujo?text=Hello!%20I'm%20contacting%20you%20from%20your%20GitHub%20profile%20regarding%20Alva%20Group%20solutions.)**.
 
 <br />
 
